@@ -17,9 +17,9 @@ I made this code available for educational purposes, maybe someone has some use 
 
 ### [Four on a row](https://github.com/joyrider3774/Willems_Soft_games/tree/master/four%20on%20a%20row)
 this is a small connect 4 clone you can play it against a pc or a friend locally
-![tumb4onarow.gif]({{site.baseurl}}/tumb4onarow.gif)
+![tumb4onarow.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumb4onarow.gif)
 
 ### [Sookoban](https://github.com/joyrider3774/Willems_Soft_games/tree/master/sookoban)
 this was my first attempt at a sokoban clone. Contains a level editor and a few levels.
-![tumbsookoban.jpg]({{site.baseurl}}/tumbsookoban.jpg)
+![tumbsookoban.jpg](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbsookoban.jpg)
 
