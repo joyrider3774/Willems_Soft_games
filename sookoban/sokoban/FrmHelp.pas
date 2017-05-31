@@ -38,17 +38,17 @@ implementation
 
 {$R *.DFM}
 
-
 procedure Thowtoplay.Button1Click(Sender: TObject);
 begin
-modalresult := MROK;
+  modalresult := MROK;
 end;
 
 procedure Thowtoplay.FormCreate(Sender: TObject);
 begin
-howtoplay.Left := (screen.width div 2) - (howtoplay.width div 2);
-howtoplay.top :=  (screen.height div 2) - (howtoplay.height div 2);
+  howtoplay.Left := (screen.width div 2) - (howtoplay.width div 2);
+  howtoplay.top := (screen.height div 2) - (howtoplay.height div 2);
 
 end;
 
 end.
+

@@ -35,18 +35,19 @@ implementation
 
 procedure Taboutbox.FormDestroy(Sender: TObject);
 begin
-aboutbox.visible :=false; 
+  aboutbox.visible := false;
 end;
 
 procedure Taboutbox.Button1Click(Sender: TObject);
 begin
-modalresult := MROK;
+  modalresult := MROK;
 end;
 
 procedure Taboutbox.FormCreate(Sender: TObject);
 begin
-aboutbox.Left := (screen.width div 2) - (aboutbox.width div 2);
-aboutbox.top :=  (screen.height div 2) - (aboutbox.height div 2);
+  aboutbox.Left := (screen.width div 2) - (aboutbox.width div 2);
+  aboutbox.top := (screen.height div 2) - (aboutbox.height div 2);
 end;
 
 end.
+

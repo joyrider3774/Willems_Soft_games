@@ -3,7 +3,8 @@ program leveleditor;
 uses
   Forms,
   FrmMain in 'FrmMain.pas' {Form1},
-  FrmAbout in 'FrmAbout.pas' {aboutbox};
+  FrmAbout in 'FrmAbout.pas' {aboutbox},
+  misc in 'misc.pas';
 
 {$R *.RES}
 

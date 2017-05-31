@@ -4,7 +4,7 @@ uses
   Forms,
   FrmMain in 'FrmMain.pas' {Form1},
   FrmAbout in 'FrmAbout.pas' {AboutBox},
-  misc in '..\units\misc.pas';
+  misc in 'misc.pas';
 
 {$R *.RES}
 
