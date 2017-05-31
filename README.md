@@ -25,3 +25,7 @@ this was my first attempt at a sokoban clone. Contains a level editor and a few 
 
 ![tumbsookoban.jpg](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbsookoban.jpg)
 
+### [Mastermind](https://github.com/joyrider3774/Willems_Soft_games/tree/master/mastermind)
+a mastermind (board) game
+
+![tumbmastermind.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbmastermind.gif)
