@@ -15,7 +15,7 @@ I made this code available for educational purposes, maybe someone has some use 
 
 ## included Games
 
-- ### [Four on a row](https://github.com/joyrider3774/Willems_Soft_games/tree/master/four%20on%20a%20row)
+### [Four on a row](https://github.com/joyrider3774/Willems_Soft_games/tree/master/four%20on%20a%20row)
 this is a small connect 4 clone you can play it against a pc or a friend locally
 
 
