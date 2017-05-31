@@ -1,0 +1,23 @@
+ Puzzle Shuffle Help 
+---------------------
+
+1. Load a bitmap (BMP) file using File -> load or 
+   pressing the load button.
+2. Choose File -> Shuffle or Press the shuffle 
+   button to shuffle the puzzle
+3. The aim of the game is to move pieces to the
+   empty (white) spot so that you get the whole
+   image back as you can see in the preview.
+4. You move a piece to the empty (white) spot
+   by Clicking on a piece that lays above, under
+   left or right from the empty(white piece).
+5. Keep on doing this till you have the puzzle
+   solved
+
+Note: The puzzle isn't automaticly shuffled when 
+      loaded for the main raison that you now can
+      load a new image while actually playing the
+      current puzzle. So if it gets to hard you can
+      load a simpler image :)
+
+Copyright Willems Davy, Willems Soft 2000-2004

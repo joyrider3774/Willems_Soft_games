@@ -29,3 +29,8 @@ this was my first attempt at a sokoban clone. Contains a level editor and a few 
 a mastermind (board) game
 
 ![tumbmastermind.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbmastermind.gif)
+
+### [Puzzle Shuffle](https://github.com/joyrider3774/Willems_Soft_games/tree/master/puzzle%20shuffle)
+an image shuffling game
+
+![tumbpuzzleshuffle.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbpuzzleshuffle.gif)
