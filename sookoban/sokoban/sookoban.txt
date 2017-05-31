@@ -1,0 +1,16 @@
+SOOKOBAN
+--------
+
+
+11-4-2000
+---------
+small update , included saving and loading of the settings modified code a bit
+
+
+Created by willems Davy in Delphi 5
+Sookoban is freeware and no money may be asked for it, you may freely spread this program around with your custum made
+levels to everyone u want as long as u didn't modify the executables.
+If you want to have the source contact me then.
+
+Site : http://www.willemssoft.be
+email : willems.davy@willemssoft.be
