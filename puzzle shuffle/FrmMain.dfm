@@ -4,7 +4,7 @@ object Frm_Puzzle_Shuffle: TFrm_Puzzle_Shuffle
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Puzzle Shuffle 1.1'
-  ClientHeight = 440
+  ClientHeight = 459
   ClientWidth = 640
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
