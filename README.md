@@ -34,3 +34,6 @@ a mastermind (board) game
 an image shuffling game
 
 ![tumbpuzzleshuffle.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbpuzzleshuffle.gif)
+
+#### Donations
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/joyrider3774)
