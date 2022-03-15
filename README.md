@@ -18,22 +18,22 @@ I made this code available for educational purposes, maybe someone has some use 
 ### [Four on a row](https://github.com/joyrider3774/Willems_Soft_games/tree/master/four%20on%20a%20row)
 this is a small connect 4 clone you can play it against a pc or a friend locally
 
-![tumb4onarow.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumb4onarow.gif)
+![tumb4onarow.gif](tumb4onarow.gif)
 
 ### [Sookoban](https://github.com/joyrider3774/Willems_Soft_games/tree/master/sookoban)
 this was my first attempt at a sokoban clone. Contains a level editor and a few levels.
 
-![tumbsookoban.jpg](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbsookoban.jpg)
+![tumbsookoban.jpg](tumbsookoban.jpg)
 
 ### [Mastermind](https://github.com/joyrider3774/Willems_Soft_games/tree/master/mastermind)
 a mastermind (board) game
 
-![tumbmastermind.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbmastermind.gif)
+![tumbmastermind.gif](tumbmastermind.gif)
 
 ### [Puzzle Shuffle](https://github.com/joyrider3774/Willems_Soft_games/tree/master/puzzle%20shuffle)
 an image shuffling game
 
-![tumbpuzzleshuffle.gif](https://github.com/joyrider3774/Willems_Soft_games/blob/master/tumbpuzzleshuffle.gif)
+![tumbpuzzleshuffle.gif](tumbpuzzleshuffle.gif)
 
 ## Buy me a "koffie" if you feel like supporting 
 I do everything in my spare time for free, if you feel something aided you and you want to support me, you can always buy me a "koffie" as we say in dutch, no obligations whatsoever...
